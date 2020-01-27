@@ -1,7 +1,7 @@
 
 # Qsafari
 
-Quantum algorithm safari is a series of implementable Quantum Algorithms.
+Quantum algorithm safari is a series of executable Quantum Algorithms.
 This project is for mainly new comers of AQUA.
 
 ## Reccomend
